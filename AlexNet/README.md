@@ -1,1 +1,1 @@
-AlexNet 논문 공부
+This is a page where I upload materials related to AlexNet.
